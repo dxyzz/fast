@@ -13,7 +13,7 @@
 <br> 
 
 **项目结构** 
-```
+`
 renren-fast
 ├─db  项目SQL语句
 │
